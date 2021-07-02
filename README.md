@@ -1,6 +1,6 @@
-____the ".txt" is saved in the same folder where the "main.txt" is located.____
+> ____the ".txt" is saved in the same folder where the "main.txt" is located.____
 
----
+
 
 # - ___Features___ 
  - ___***Name length to your liking***___ ( 1-3, 3, 2, 2-4, 1-5 )
